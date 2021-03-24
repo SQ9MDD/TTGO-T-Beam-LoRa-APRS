@@ -1,6 +1,6 @@
 How to binary flash readme...
 Download current version of the esphome-flasher tool
-https://github.com/SQ9MDD/TTGO-T-Beam-LoRa-APRS/blob/master/bin/FlashReadme.md
+https://github.com/esphome/esphome-flasher/releases
 Connect your board to your USB port and open ESPHome Flasher.
 If your board is not showing under Serial Port then you likely need to install the drivers for the CP210X serial chip. In Windows you can check by searching “Device Manager” and ensuring the device is shown under “Ports”.
 If there is an error, instal the drivers and make sure your board is present in Device Manager as COMxxx port.
